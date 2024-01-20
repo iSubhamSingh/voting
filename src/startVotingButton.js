@@ -33,7 +33,7 @@ export default function StartStopVotingButton({
           <button className="action-button" onClick={onToggleVoting}>
             {started ? 'Finish' : 'Start'} voting!
           </button>
-          <h4 style={{ margin: '10px' }}>You are the admin</h4>
+          <h3 style={{ margin: '10px' }}>You are the admin</h3>
         </div>
       )}
       {/* Render regular user message if the user is not the owner */}
