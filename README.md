@@ -79,7 +79,7 @@ The voting logic implemented in the contract is straightforward and easy to unde
 
 
 
-# Misc HOW-TOs
+# Miscellaneous
 ## Basic hardhat commands
 
 ### Run hardhat node
